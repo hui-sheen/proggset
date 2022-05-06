@@ -1,8 +1,12 @@
 # A Novel Strategy to Identify Prognosis Relevant Gene Sets in Cancers
 ## Step 1: Single-gene survival analysis
+#Check code/Step1.survival.R  
 ## Step 2: GSEA based on single gene survival analysis results
+#Check code/Step2.fgsea.R  
 ## Step 3: Gene set survival analysis based on CGES
+#Check code/Step3.gsea_flow2_CGES.R
 ## Step 4: Crosstalk analysis using DCGL & CSPN
+#Check code/Step4.crosstalk.R
 #Unzip cspn  
 cd cspn  
 #Deploy three aspects of files in cspn  
